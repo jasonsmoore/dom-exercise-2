@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(195, 194, 194);
+}
+.menu {
+    display: none;
+}
+#numbers {
+    display: none;
+}
